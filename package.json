@@ -1,0 +1,14 @@
+{
+  "name": "timestamp-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "timestamp.js",
+  "types": "timestamp.d.ts",
+  "scripts": {
+    "test": "node timestamp.test.js"
+  },
+  "keywords": [],
+  "author": "Anokhin Bogdan",
+  "license": "ISC",
+  "type": "module"
+}
